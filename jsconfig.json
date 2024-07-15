@@ -1,5 +1,7 @@
 {
+
   "compilerOptions": {
+    "types": ["estree", /* other types */],
     "paths": {
       "@/*": ["./src/*"]
     }
